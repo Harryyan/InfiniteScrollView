@@ -36,5 +36,5 @@ reloadActivityItem 这个方法是外界传参的接口, 本Demo传入值很简�
 
 ##截图如下：
 
-![Mou icon](http://zhgyw.cn/images/class_diagram.jpg) 
-![Mou icon](http://zhgyw.cn/images/class_diagram.jpg) 
+![Mou icon](http://zhgyw.cn/images/1-test.jpg) 
+![Mou icon](http://zhgyw.cn/images/2-test.jpg)
